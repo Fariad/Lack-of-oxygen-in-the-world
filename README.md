@@ -1,40 +1,40 @@
 # Lack-of-oxygen-in-the-world
- لإنقاذ المصابين بوباء كوفيد-19 
-وتلقي الأزمة الصحية الراهنة بعبء كبير على الأنظمة الاستشفائية حتى الأكثر تقدماً منها، مع صعوبات تتعلق خصوصاً في التزود بأجهزة تنفس اصطناعي.
+ 
+The current health crisis is placing a great burden on hospital systems, even the most advanced ones, with difficulties related especially to the provision of artificial respirators.
 
-غير أن الخبراء يخشون من أن يطغى هذا الاهتمام بالشق الأكثر تقدماً في تقنيات المساعدة على التنفس على أولوية أكبر في الأنظمة الصحية الأكثر ضعفاً وهي الأكسجين الطبي الذي يشكل مكوناً رئيسياً في وحدات العناية الفائقة.
+However, experts fear that this interest in the most advanced part of assisted breathing technology will overshadow a higher priority in the most vulnerable health systems: medical oxygen, which is a major component of intensive care units.
 
-ويقول هاميش غراهام، طبيب الأطفال والباحث في جامعة ملبورن، "الواقع هو أن الأكسجين يمثل العلاج الوحيد الذي سينقذ الأرواح في إفريقيا ومنطقة آسيا - المحيط الهادئ في هذه المرحلة".
+"The reality is that oxygen is the only life-saving treatment in Africa and the Asia-Pacific region at this point," says Hamish Graham, a pediatrician and researcher at the University of Melbourne.
 
-ويوضح لوكالة فرانس برس "أخشى أن يكون التركيز المفرط على أجهزة التنفس قاتلاً في حال لم تحل مشكلات الأكسجين".
+"I am afraid that the excessive focus on respirators will be fatal if the oxygen problems are not resolved," he told AFP.
 
-وأظهر تقرير نشر في شباط/فبراير عن آلاف الحالات في الصين أن ما يقرب من 20 % من مرضى كوفيد-19 احتاجوا إلى الأكسجين.
+A report published in February of thousands of cases in China showed that nearly 20% of COVID-19 patients required oxygen.
 
-ويهاجم فيروس كورونا المستجد الرئتين متسبباً بأشكال حادة من الضيق التنفسي كما يؤدي إلى تراجع خطير في مستوى الأكسجين في الدم.
+The new Corona virus attacks the lungs, causing severe forms of respiratory distress, and also leads to a dangerous decrease in the level of oxygen in the blood.
 
-ويلفت غراهام إلى أن "وجود الأكسجين بديهي في مستشفيات البلدان الغنية". لكن في باقي أنحاء العالم، "يدرك المعالجون تماماً المشكلة إذ إنهم يكافحون يوميا لتزويد مرضاهم بالأكسجين".
+Graham notes that "the presence of oxygen is self-evident in the hospitals of rich countries." But in the rest of the world, "therapists are very aware of the problem as they struggle every day to provide their patients with oxygen."
 
-نقص في إفريقيا وآسيا
-وتضم مستشفيات كبرى كثيرة في البلدان النامية عبوات أكسجين في غرف العمليات والخدمات الطبية، إضافة إلى أجهزة توليد أكسجين وهي معدات محمولة تتيح تنقية الهواء المحيط.
+shortages in Africa and Asia
+Many major hospitals in developing countries have oxygen bottles in operating rooms and medical services, as well as oxygen generators, which are portable equipment that allows purification of the surrounding air.
 
-غير أن دراسات عدة تظهر أن أقل من نصف المستشفيات في إفريقيا وآسيا - المحيط الهادئ لديها أكسجين متوفر في أي وقت، وفق غراهام. كما أن عدداً أدنى من هذه المؤسسات مجهز بأدوات قياس التأكسج النبضي وهي أجهزة صغيرة توضع عند طرف أصبع المريض لقياس مستوى الأكسجين في الدم.
+However, several studies show that less than half of hospitals in Africa and Asia-Pacific have oxygen available at any given time, Graham says. A smaller number of these institutions are equipped with pulse oximetry, which are small devices placed at the tip of a patient's finger to measure the level of oxygen in the blood.
 
-هذا القلق ليس جديداً لدى الأشخاص الذين يعالجون المرضى المصابين بالالتهاب الرئوي، أكثر الأمراض المعدية فتكاً لدى الأطفال دون سن الخامسة.
+This concern is not new for people treating patients with pneumonia, the most deadly infectious disease in children under five.
 
-ورغم السياسات المحلية المعتمدة، يثير الوضع في بعض مناطق نيجيريا أحد أكثر البلدان تضرراً بهذا الوضع، "قلقاً كبيرا للغاية" وفق آدامو إيساه من منظمة "سايف ذي تشيلدرن" (أنقذوا الأطفال) غير الحكومية.
+Despite the adopted domestic policies, the situation in some parts of Nigeria, one of the countries most affected by this situation, is "a very serious concern", according to Adamu Isah of the non-governmental organization Save the Children.
 
-ويقول هذا الطبيب السابق لوكالة فرانس برس إن رؤية أطفال "يعانون ويختنقون" أمر بات شائعاً، مضيفاً "نشعر أننا بلا جدوى. لا يمكننا فعل الكثير من دون الأكسجين".
+It is common to see children "suffering and suffocating", this former doctor told AFP. "We feel useless. We can't do much without oxygen."
 
-وضع "مرعب"
+'terrifying' situation
 
-وتوضح منسقة ائتلاف "إيفري بريث كاونتس" ليث غرينسلايد من ناحيتها أن "الأنظمة الصحية في إفريقيا وجنوب آسيا لم تكن جاهزة البتة لمثل هذا الوباء وهي لم تستثمر في العلاجات التنفسية" وتصف الوضع بأنه "مرعب".
+For her part, coordinator of the "Every Breath Counts" coalition, Leith Greenslade, explains that "health systems in Africa and South Asia were not prepared at all for such an epidemic and did not invest in respiratory treatments", describing the situation as "terrifying."
 
-ورغم وفاة 800 ألف طفل جراء الالتهاب الرئوي سنوياً، لا يحظى هذا المرض بالاهتمام عينه كالإيدز والملاريا والسل.
+Although 800,000 children die of pneumonia annually, the disease does not receive the same attention as AIDS, malaria and tuberculosis.
 
-كما أن السلطات الصحية العالمية "أهملت تماماً" مسألة الأكسجين وفق ليث غرينسلايد التي تشير إلى أن "غياب البيانات العالمية (بشأن التزود بالأكسجين) سيشكل مشكلة كبرى للرد على كوفيد-19 لأننا نسير على غير هدى ولا نعلم ما هي البلدان الأكثر حاجة".
+The global health authorities have also "completely neglected" the issue of oxygen, according to Leith Greenslade, who notes that "the absence of global data (regarding oxygen supply) will constitute a major problem in responding to Covid-19 because we are going nowhere and we do not know which countries are most in need."
 
-وتلفت إلى أنه "رغم كون الوباء لا يزال ضعيفاً نسبياً في إفريقيا وبعض أنحاء آسيا، لكن يبقى على الأرجح هامش زمني لشهرين" للتحرك.
+And she pointed out that "despite the fact that the epidemic is still relatively weak in Africa and some parts of Asia, there is likely to be a time margin of two months" for action.
 
-ورغم صعوبة التكهن بالطريقة التي سينتشر فيها الفيروس في هذا الجزء من العالم، يدعو الخبراء إلى تعزيز أنظمة الرعاية الطارئة.
+Although it is difficult to predict how the virus will spread in this part of the world, experts are calling for emergency care systems to be strengthened.
 
-وتقول غوين هاينس من "سايف ذي تشيلدرن"، "كما في كل مكان، يجب تسطيح المنحنى (الوبائي)، لكن إذا كانت المؤسسات تفتقر للأسرّة في غرف العناية الفائقة، أو تضم القليل منها كما في ملاوي التي تعد 25 سريرا لكل 17 مليون نسمة، فسيتعذر تحقيق الهدف المرجو".
+“As everywhere, the (epidemic) curve should be flattened, but if institutions lack ICU beds, or have few, as in Malawi, which has 25 beds per 17 million people, says Gwen Haynes of Save the Children, It will not be possible to achieve the desired goal."
